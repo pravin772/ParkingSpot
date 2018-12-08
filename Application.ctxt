@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Application
+comment0.text=\r\n\ Following\ Java\ Application\ is\ the\ interface\ class\ including\ the\ main()\ method\ and\ handling\ all\ inputs\ and\ outputs.\r\n\ @param\ choice\ choice\ is\ used\ for\ switch\ case\ choice\r\n\ @author\ \ \ \ \ \ Pravin\ Bendre\ <student\ ID\ 101990018>\r\n\ @version\ \ \ \ \ 1.0\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ This\ methos\ is\ entry\ poit\ for\ execution\ and\ handles\ some\ input\ output\ operations\r\n\ @param\ args\ its\ a\ array\ of\ string\ \ \r\n\ @return\ its\ a\ void\ method\r\n
+numComments=2

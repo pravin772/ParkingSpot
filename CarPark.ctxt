@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CarPark
+comment0.text=\r\n\ Following\ Java\ class\ CarPark\ includes\ and\ is\ responsible\ for\ maintaining\ a\ list\ of\ available\ parking\ spots.\ \r\n\ It\ also\ able\ to\ find\ a\ spot,\ add\ a\ spot,\ delete\ a\ spot,\ and\ provide\ a\ list\ of\ all\ spots\ included\ in\ the\ car\ park.\r\n\ @param\ parking_spots\ object\ array\ list\ of\ class\ ParkingSpot\r\n\ @author\ \ \ \ \ \ Pravin\ Bendre\ <student\ ID\ 101990018>\r\n\ @version\ \ \ \ \ 1.0\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n
+comment1.params=
+comment1.target=CarPark()
+comment1.text=\r\n\ This\ method\ is\ constructor\r\n
+comment2.params=spot
+comment2.target=boolean\ addSpot(ParkingSpot)
+comment2.text=\r\n\ This\ method\ is\ to\ add\ a\ spot\r\n\ @param\ spot\ is\ the\ spot\ where\ spot\ is\ added\r\n\ @return\ boolean\ added\ or\ not\r\n
+comment3.params=spot_id
+comment3.target=ParkingSpot\ find(java.lang.String)
+comment3.text=\r\n\ This\ method\ is\ to\ remove\ parked\ car\ \r\n\ @param\ license_plate\ is\ the\ license\ number\ string\r\n\ @return\ boolean\ removed\ or\ not\r\n
+comment4.params=spot_name
+comment4.target=boolean\ removeSpot(java.lang.String)
+comment4.text=\r\n\ This\ method\ is\ to\ remove\ spot\ \ \r\n\ @param\ spot_name\ name\ of\ the\ spot\ to\ be\ remove\r\n\ @return\ boolean\ removed\ or\ not\r\n
+comment5.params=spot_name
+comment5.target=boolean\ isExisted(java.lang.String)
+comment5.text=\r\n\ This\ method\ is\ to\ check\ existance\ of\ spot\ \r\n\ @param\ spot_name\ is\ the\ spot\ number\ to\ check\r\n\ @return\ boolean\ existed\ or\ not\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ This\ method\ is\ override\ to\ displat\ object\ data\ \r\n\ @return\ String\ object\ data\ in\ string\ format\r\n
+numComments=7
